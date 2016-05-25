@@ -1,0 +1,19 @@
+{
+  "name": "rb-country-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebrandly/rb-country-data.git"
+  },
+  "author": "Federico Ginosa <f.ginosa@gmail.com> (http://federicoginosa.xyz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebrandly/rb-country-data/issues"
+  },
+  "homepage": "https://github.com/rebrandly/rb-country-data#readme"
+}
